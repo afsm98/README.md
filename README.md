@@ -34,6 +34,3 @@
     <p>LinkedIn: [Your LinkedIn Profile URL]</p>
 </body>
 </html>
-```
-
-This HTML code provides a structured and informative view of your professional profile. You can add your LinkedIn URL and any other details you wish to include. Remember to replace the placeholder text with actual URLs or information as needed.
