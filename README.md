@@ -7,7 +7,7 @@
 I'm Alexis Sanchez, a business professional with 2.5 years of consulting experience, specializing in project management, Responsible AI, and Tech Transformation. I have a strong interest in fintech, front-end development, and entrepreneurship, underscoring my commitment to continuous learning.
 
 ## Technical Skills
-![Power BI](URL_to_PowerBI_icon "Power BI") ![SQL](URL_to_SQL_icon "SQL") ![Python](URL_to_Python_icon "Python") ![Communication](URL_to_Communication_icon "Communication") ![Project Management](URL_to_Project_Management_icon "Project Management") ![PowerPoint](URL_to_PowerPoint_icon "PowerPoint") ![Canva](URL_to_Canva_icon "Canva") ![HTML](URL_to_HTML_icon "HTML")
+![Power BI](URL_to_PowerBI_icon "Power BI") ![SQL](URL_to_SQL_icon "SQL") ![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1zGXMlCDrCLB0T4nHF0G6-&ust=1700568969201000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCICnn53H0oIDFQAAAAAdAAAAABAU) ![Communication](URL_to_Communication_icon "Communication") ![Project Management](URL_to_Project_Management_icon "Project Management") ![PowerPoint](URL_to_PowerPoint_icon "PowerPoint") ![Canva](URL_to_Canva_icon "Canva") ![HTML](URL_to_HTML_icon "HTML")
 
 ### Education
 
