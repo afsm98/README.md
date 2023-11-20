@@ -24,7 +24,9 @@ English (Advanced), Spanish (Native), Portuguese (Proficient)
 
 ### Technical Skills
 
-Power BI, SQL, Python, Communication, Project Management, PowerPoint, Canva, HTML
+## Technical Skills
+
+![Power BI](URL_to_PowerBI_icon "Power BI") ![SQL](URL_to_SQL_icon "SQL") ![Python](URL_to_Python_icon "Python") ![Communication](URL_to_Communication_icon "Communication") ![Project Management](URL_to_Project_Management_icon "Project Management") ![PowerPoint](URL_to_PowerPoint_icon "PowerPoint") ![Canva](URL_to_Canva_icon "Canva") ![HTML](URL_to_HTML_icon "HTML")
 
 ### Connect With Me
 
