@@ -11,11 +11,8 @@ I'm Alexis Sanchez, a business professional with 2.5 years of consulting experie
 ![Power BI](https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png "Power BI") 
 ![SQL](https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png "SQL") 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg "Python") 
-![Communication](https://www.flaticon.com/free-icons/communication "Communication") 
-![Project Management](https://www.flaticon.com/free-icons/project-management "Project Management") 
-![PowerPoint](https://www.flaticon.com/free-icons/powerpoint "PowerPoint") 
-![Canva](https://www.flaticon.com/free-icons/canva "Canva") 
-![HTML](https://www.flaticon.com/free-icons/html "HTML")
+![PowerPoint](https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg "PowerPoint") 
+![Canva](https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png "Canva") 
 
 
 ### Education
